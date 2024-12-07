@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 <li>🔭 I’m currently working on a new project</li>
   <p></p>
-<li>🌱 I’m currently a student majoring in CS</li>
+<li>🌱  majoring in CS and ongoing front-end internship</li>
   <p></p>
 </div>
 <p></p>
