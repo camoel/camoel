@@ -1,4 +1,4 @@
-<h1 align="center">Hi，I am Quincy 👋</h1> 
+<h1 align="left">Hi，I am Quincy 👋</h1> 
 
 <!--
 **camoel/camoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,27 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <p align="left" >A software developer with a passion for creating open-source projects and learning new technologies.</p>
-<div align="left">
-🔭 I’m currently working on a new project
+ <p align="left" >Frontend & Design Engineer.</p>
+<div align="left" display="inline-block">
+ 🌱  majoring in CS and ongoing front-end internship
   <p></p>
-🌱  majoring in CS and ongoing front-end internship
   <p></p>
+ 📫 How to reach me: 2048579509@qq.com
 </div>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
 
-
-<div  align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=camoel&show_icons=true&theme=tokyot&hide_title=true&rank_icon=none"/>
-    </div>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=camoel&show_icons=true&theme=tokyot&hide_title=true&rank_icon=none"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camoel&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+ <h3 align="left">🛠️ Skills and Tools</h3>
+<img align="left" src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,figma,git,c,java&theme=light" />
+</div>
 <div align="center"><img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=camoel&theme=github-compact&hide_border=true&area=true" />
 </div>
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camoel&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" /></div>
+
 <div align="center"><img align="center" src="https://skillicons.dev/icons?i=camoel&theme=light" /></div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
-<h3 align="center">🛠️ Skills and Tools</h3>
-<div align="center"><img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,figma,git,c,java&theme=light" /></div>
+
 
 
 
