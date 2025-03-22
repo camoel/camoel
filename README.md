@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
  <p align="left" >A software developer with a passion for creating open-source projects and learning new technologies.</p>
 <div align="left">
-<li>🔭 I’m currently working on a new project</li>
+🔭 I’m currently working on a new project
   <p></p>
-<li>🌱  majoring in CS and ongoing front-end internship</li>
+🌱  majoring in CS and ongoing front-end internship
   <p></p>
 </div>
 <p></p>
