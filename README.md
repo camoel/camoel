@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <p align="center" >A software developer with a passion for creating open-source projects and learning new technologies.</p>
-<div align="center">
+ <p align="left" >A software developer with a passion for creating open-source projects and learning new technologies.</p>
+<div align="left">
 <li>🔭 I’m currently working on a new project</li>
   <p></p>
 <li>🌱  majoring in CS and ongoing front-end internship</li>
