@@ -14,30 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <p align="left" >Frontend & Design Engineer.</p>
+ <h3>✨About me✨</h3>
 <div align="left" display="inline-block">
- 🌱  majoring in CS and ongoing front-end internship
+ A Frontend & Design Engineer
+ <p></p>
+ 🌱  Majoring in CS and ongoing front-end internship
   <p></p>
   <p></p>
  📫 How to reach me: 2048579509@qq.com
+ <p></p>
+ <p></p>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=camoel&show_icons=true&theme=tokyot&hide_title=true&rank_icon=none"/>
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camoel&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
- <h3 align="left">🛠️ Skills and Tools</h3>
-<img align="left" src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,figma,git,c,java&theme=light" />
+ <h3 align="left">🛠️ Skills and Tools~</h3>
+<img align="left" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,figma,&theme=light" />
+<img align="left" src="https://skillicons.dev/icons?i=git,java,c&theme=light" />
 </div>
+
 <div align="center"><img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=camoel&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 
 <div align="center"><img align="center" src="https://skillicons.dev/icons?i=camoel&theme=light" /></div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
+<!-- <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div> -->
 
 
 
