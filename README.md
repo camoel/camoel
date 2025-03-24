@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=camoel&show_icons=true&theme=tokyot&hide_title=true&rank_icon=none"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=camoel&show_icons=true&theme=tokyot&hide_title=true&rank_icon=none"/> -->
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camoel&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
  <h3 align="left">🛠️ Skills and Tools~</h3>
-<img align="left" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,figma,&theme=light" />
-<img align="left" src="https://skillicons.dev/icons?i=git,java,c&theme=light" />
+<img align="left" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react&theme=light" />
+<img align="left" src="https://skillicons.dev/icons?i=figma,git,java,c&theme=light" />
 </div>
 
 <div align="center"><img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=camoel&theme=github-compact&hide_border=true&area=true" />
